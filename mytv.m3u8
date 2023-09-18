@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 ,#
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=836374&extension=ts
 #EXTINF:-1 ,#
@@ -19,6 +19,8 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" ,CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 #EXTINF:-1 group-title="电影频道",欧美大片
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="电影频道",FashionTV
@@ -47,3 +49,5 @@ http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
 http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕10.png",咪咕10
 http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
+#EXTINF:-1 group-title="武汉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png",武汉新闻综合
+http://stream.appwuhan.com/1tzb/sd/live.m3u8
