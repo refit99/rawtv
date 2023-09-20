@@ -17,22 +17,10 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 group-title="纪录",之江纪录
 http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="纪录",RT纪录
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="纪录",CGTN纪录频道
+#EXTINF:-1 group-title="纪录",CGTN纪录
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="纪录",CGTN纪录
-http://111.40.196.29:443/PLTV/88888888/224/3221225536/1.m3u8
-#EXTINF:-1 group-title="纪录",CGTN纪录
-http://111.40.196.30:443/PLTV/88888888/224/3221225536/1.m3u8
-#EXTINF:-1 group-title="纪录",CGTN纪录
-http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8 
-#EXTINF:-1 group-title="纪录",CGTN纪录
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="纪录",CGTN 纪录
-http://36.131.221.148/tlivecloud-ipv6.ysp.cctv.cn/ysp/2010155403.m3u8
-#EXTINF:-1 group-title="纪录",CGTN-纪录
-http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2010155403.m3u8
 #EXTINF:-1 group-title="纪录",精品纪录
 http://111.40.196.27:443/0000000000001000/1000000004000013730/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000013730
 #EXTINF:-1 group-title="纪录",精品纪录
@@ -48,15 +36,11 @@ http://117.169.124.149:8080/live/jingpinjl/index.m3u8
 #EXTINF:-1 group-title="纪录",精品纪录
 http://117.169.121.162:6610/PLTV/88888910/224/3221225710/index.m3u8
 #EXTINF:-1 group-title="纪录",求索纪录
-http://39.134.136.200:6610/000000001001/1/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=no
-#EXTINF:-1 group-title="纪录",求索纪录
 http://111.40.196.27:443/0000000000001000/6000000002000032052/index.m3u8?livemode=1&stbId=10&channel-id=wasusyt&Contentid=6000000002000032052
 EXTINF:-1 group-title="纪录",求索纪录
 http://39.134.136.138:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 group-title="纪录",求索纪录
 http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 group-title="纪录", CCTV9-纪录
-http://218.17.196.234:9901/tsfile/live/0009_1.m3u8
 #EXTINF:-1 group-title="纪录",CCTV-9纪录
 http://222.175.159.226:808/hls/202310/index.m3u8
 #EXTINF:-1 group-title="纪录",CCTV-9纪录
@@ -65,8 +49,6 @@ http://222.240.82.92:9901/tsfile/live/0009_1.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
 #EXTINF:-1 group-title="纪录",CCTV-9纪录
 http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="纪录",CCTV-9纪录
-http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
 EXTINF:-1 group-title="纪录",CCTV-9纪录
 http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 EXTINF:-1 group-title="纪录",CCTV-9纪录
