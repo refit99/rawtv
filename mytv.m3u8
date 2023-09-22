@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg",爱自然
+#EXTINF:-1 group-title="4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K频道",CCTV
+#EXTINF:-1 group-title="4K",CCTV
 http://cfss.cc/api/ysp/cctv4k.m3u8
-#EXTINF:-1 group-title="4K频道",CCTV8
+#EXTINF:-1 group-title="4K",CCTV8
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-#EXTINF:-1 group-title="4K频道",CCTV16
+#EXTINF:-1 group-title="4K",CCTV16
 http://202208201800.iptv.z-link.cn:8800/tsfile/live/0018_1.m3u8
-#EXTINF:-1 group-title="4K频道",TRT
+#EXTINF:-1 group-title="4K",TRT
 http://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="4K频道",TRT
+#EXTINF:-1 group-title="4K",TRT
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="4K频道",苏州
+#EXTINF:-1 group-title="4K",苏州
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #EXTINF:-1 group-title="纪录",之江纪录
@@ -54,63 +54,59 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 EXTINF:-1 group-title="纪录",CCTV-9纪录
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 
-#EXTINF:-1 group-title="电影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作电影
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+#EXTINF:-1 group-title="电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" ,CHC高清电影
+#EXTINF:-1 group-title="电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" ,CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
-#EXTINF:-1 group-title="电影频道",欧美大片
+#EXTINF:-1 group-title="电影",欧美大片
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="电影频道",FashionTV
+#EXTINF:-1 group-title="电影",FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="电影频道",FashionTV
+#EXTINF:-1 group-title="电影",FashionTV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-#EXTINF:-1 group-title="电影频道",林正英1
+#EXTINF:-1 group-title="电影",林正英1
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-#EXTINF:-1 group-title="电影频道",林正英2
+#EXTINF:-1 group-title="电影",林正英2
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
-#EXTINF:-1 group-title="电影频道",龙华电影
+#EXTINF:-1 group-title="电影",龙华电影
 http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-#EXTINF:-1 group-title="电影频道",东森电影
+#EXTINF:-1 group-title="电影",东森电影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-#EXTINF:-1 group-title="电影频道",东森电影
+#EXTINF:-1 group-title="电影",东森电影
 http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
-#EXTINF:-1 group-title="电影频道",东森电影
+#EXTINF:-1 group-title="电影",东森电影
 http://162.19.247.76:22222/live/dsdyt/index.m3u8
-#EXTINF:-1 group-title="电影频道",东森电影
+#EXTINF:-1 group-title="电影",东森电影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
-#EXTINF:-1 group-title="电影频道",黑莓电影
+#EXTINF:-1 group-title="电影",黑莓电影
 http://111.40.196.29:443/PLTV/88888888/224/3221225610/1.m3u8
-#EXTINF:-1 group-title="电影频道",美亞電影
+#EXTINF:-1 group-title="电影",美亞電影
 http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-#EXTINF:-1 group-title="电影频道",动作电影
+#EXTINF:-1 group-title="电影",动作电影
 http://111.40.196.37:443/PLTV/88888888/224/3221225620/1.m3u8
-#EXTINF:-1 group-title="电影频道",动作电影
+#EXTINF:-1 group-title="电影",动作电影
 http://111.40.196.31:443/PLTV/88888888/224/3221225620/1.m3u8
-#EXTINF:-1 group-title="电影频道",星卫电影
-http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-#EXTINF:-1 group-title="电影频道",好莱坞电影
-http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
-#EXTINF:-1 group-title="电影频道",NewTV动作电影
+#EXTINF:-1 group-title="电影",动作电影
 http://111.40.196.27:443/0000000000001000/8103864434730665389/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8103864434730665389
-#EXTINF:-1 group-title="电影频道",NewTV超级电影
-http://111.40.196.27:443/0000000000001000/1000000003000012426/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000003000012426
-#EXTINF:-1 group-title="电影频道",NewTV超级电影 (1080p)
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
-#EXTINF:-1 group-title="电影频道",沈腾+周星驰
-http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
-#EXTINF:-1 group-title="电影频道",好莱坞-中字
+#EXTINF:-1 group-title="电影",星卫电影
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+#EXTINF:-1 group-title="电影",好莱坞
+http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
+#EXTINF:-1 group-title="电影",好莱坞
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
-#EXTINF:-1 group-title="电影频道",美国Mytime
+#EXTINF:-1 group-title="电影",NewTV超级电影
+http://111.40.196.27:443/0000000000001000/1000000003000012426/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000003000012426
+#EXTINF:-1 group-title="电影",NewTV超级电影 (1080p)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 group-title="电影",沈腾+周星驰
+http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
+#EXTINF:-1 group-title="电影",美国Mytime
 https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.to
-#EXTINF:-1 group-title="电影频道",漫威宇宙1
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 group-title="电影频道",漫威宇宙2
-http://txtest-xp2p.p2p.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影频道",漫威电影
-http://epg.112114.xyz/douyu/4282654
-#EXTINF:-1 group-title="电影频道",漫威影院
+#EXTINF:-1 group-title="电影",欧美影视
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 group-title="电影",漫威影院
 http://maomao.kandiantv.cn/douyu1.php?id=6140589
 
 #EXTINF:-1 group-title="咪咕" tvg-logo="https://epg.112114.xyz/logo/咪咕1.png",咪咕1
@@ -139,8 +135,6 @@ http://39.135.134.67/000000001000/3000000001000026778/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 group-title="影视",广州影视
 https://justsometime.gztv.com/sec/yingshi.m3u8
-#EXTINF:-1 group-title="影视",欧美影视
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="影视",河北影视剧
 https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
 #EXTINF:-1 group-title="影视",南宁影视
@@ -150,73 +144,26 @@ https://jwliveqxzb.hebyun.com.cn/yspd/yspd.m3u8
 #EXTINF:-1 group-title="影视",新昌休闲影视
 http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
 
-#EXTINF:-1 group-title="美剧",Blue 美剧1
-https://jpts.sinovision.net/livestream.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧2
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧3
-https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧4
-http://inliveserver.com:1935/14510/14510/playlist.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧5
-https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧6
-http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧7
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/01.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧9
-http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧10
-http://39.135.138.59:18890/PLTV/88888910/224/3221225635/index.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧11
-http://stream1.jlntv.cn/fzpd/sd/live.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧12
-https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧13
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="美剧",Blue 美剧14
-http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
-
 #EXTINF:-1 group-title="美剧",HBO1
 http://185.188.188.235/live/hbo/playlist.m3u8
-#EXTINF:-1 group-title="美剧",HBO2
-http://41.205.93.154/HBO/index.m3u8
-#EXTINF:-1 group-title="美剧",HBO3
-http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:-1 group-title="美剧",HBO4
 http://208.115.225.174:14165
 #EXTINF:-1 group-title="美剧",HBO5
 http://185.188.188.235/live/hbo2/playlist.m3u8
 #EXTINF:-1 group-title="美剧",HBO6
 http://94.156.33.91/Cinemax/mono.m3u8
-#EXTINF:-1 group-title="美剧",HBO7
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.2.hd.rs.m3u8
 #EXTINF:-1 group-title="美剧",HBO8 HD
 https://s.vdo.ai/vhs/1.m3u8
 #EXTINF:-1 group-title="美剧",HBO9 HD
 http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
-#EXTINF:-1 group-title="美剧",HBO10 HD
+#EXTINF:-1 group-title="美剧",HBO9 HD
 http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-#EXTINF:-1 group-title="美剧",HBO11 HD
+#EXTINF:-1 group-title="美剧",HBO9 HD
 http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
-#EXTINF:-1 group-title="美剧",HBO12 FHD
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="美剧",HBO13家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-#EXTINF:-1 group-title="美剧",HBO14原创
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-#EXTINF:-1 group-title="美剧",HBO15家庭
+#EXTINF:-1 group-title="美剧",HBO15MUNDI
 http://208.115.225.174:14148
-#EXTINF:-1 group-title="美剧",HBO16家庭
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 #EXTINF:-1 group-title="美剧",HBO17 HD US
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=45549
-#EXTINF:-1 group-title="美剧",HBO18原创
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 group-title="美剧",HBO19 family
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=683150
 #EXTINF:-1 group-title="美剧",HBO20 PREMIUM
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="美剧",HBO21 2 HD US
@@ -227,64 +174,20 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&s
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=176913
 #EXTINF:-1 group-title="美剧",HBO24 HD-6045
 http://181.78.24.67:8010/play/a05o/index.m3u8
-#EXTINF:-1 group-title="美剧",HBO25 Latino SD
+#EXTINF:-1 group-title="美剧",HBO25 Music
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
-#EXTINF:-1 group-title="美剧",HBO26 Comedy UHD
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
-#EXTINF:-1 group-title="美剧",HBO27 WEST HD US
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=91884
 #EXTINF:-1 group-title="美剧",HBO28 ZONE HD US
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=45546
-#EXTINF:-1 group-title="美剧",HBO29 2 (East) CA
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/starz1.east.ca.m3u8
-#EXTINF:-1 group-title="美剧",HBO30 2 (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.east.us.m3u8
-#EXTINF:-1 group-title="美剧",HBO31 2 (West) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.pacific.us.m3u8
-#EXTINF:-1 group-title="美剧",HBO32 2 (West) US
-http://archive.org/download/54848441_201808/54848441.mp4
 #EXTINF:-1 group-title="美剧",HBO33 COMEDY HD US
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=45551
 #EXTINF:-1 group-title="美剧",HBO34 FAMILY HD US
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=45550
-#EXTINF:-1 group-title="美剧",HBO35 Comedy (West)
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
-#EXTINF:-1 group-title="美剧",HBO36 Family (West)
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/showtime.family.zone.eastern.us.m3u8
-#EXTINF:-1 group-title="美剧",HBO7 Family (West)
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.pacific.us.m3u8
-#EXTINF:-1 group-title="美剧",HBO38 Zone (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hgtv.usa.eastern.us.m3u8
 #EXTINF:-1 group-title="美剧",HBO39 SIGNATURE HD US
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:69:40:42&extension=ts&stream=45547
-#EXTINF:-1 group-title="美剧",HBO40 Comedy (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.comedy.pacific.us.m3u8
-#EXTINF:-1 group-title="美剧",HBO41 Signature (West)
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 group-title="美剧",HBO42 Comedy (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 group-title="美剧",HBO43 Signature (West)
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/VX0VZ8RN1Z6LOX4QG1OZ/hls3/now_-1m_15s/m.m3u8
 #EXTINF:-1 group-title="美剧",HBO44 Family (East) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.family.pacific.us.m3u8
-#EXTINF:-1 group-title="美剧",HBO45 Signature (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.signature.hbo.3.pacific.us.m3u8
-#EXTINF:-1 group-title="美剧",HBO46 Signature (East) US
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hbo.zone.east.us.m3u8
-HOT #EXTINF:-1 group-title="美剧",HBO47 HD (Израиль)
-http://myott.top/stream/DT6QU63K5VX/379.m3u8
-#EXTINF:-1 group-title="美剧",HBO48
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=571204
 #EXTINF:-1 group-title="美剧",HBO49
 http://208.115.225.174:14136
-#EXTINF:-1 group-title="美剧",HBO50
-http://103.112.191.9:880/LAOSAT1089.m3u8
-#EXTINF:-1 group-title="美剧",HBO51
-http://61.221.81.93:8078/hls/23/80/hbo.m3u8
-#EXTINF:-1 group-title="美剧",HBO52
-http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 group-title="美剧",HBO53
-http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8580/.m3u8
 
 #EXTINF:-1 group-title="武汉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png",武汉新闻综合
 http://stream.appwuhan.com/1tzb/sd/live.m3u8
