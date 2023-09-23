@@ -4,20 +4,10 @@
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K",CCTV
 http://cfss.cc/api/ysp/cctv4k.m3u8
-#EXTINF:-1 group-title="4K",CCTV1
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
-#EXTINF:-1 group-title="4K",CCTV1
-http://111.11.123.28:6610/000000001000/6000000006000300630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1960920221014141449279879&channel-id=wasusyt&Contentid=6000000006000300630
-#EXTINF:-1 group-title="4K",CCTV8
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 #EXTINF:-1 group-title="4K",CCTV16
 http://202208201800.iptv.z-link.cn:8800/tsfile/live/0018_1.m3u8
 #EXTINF:-1 group-title="4K" tvg-logo="https://live.zhoujie218.top/taibiao/奥林匹克-4K.png",CCTV16
 http://iptv2.dnwx.vip:8888/udp/239.252.220.237:5140
-#EXTINF:-1 group-title="4K",TRT
-http://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="4K",TRT
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="4K",苏州
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
@@ -51,46 +41,18 @@ http://39.134.136.138:6610/000000001000/6000000002000032052/index.m3u8?channel-i
 http://111.11.123.30:6610/000000001000/6000000002000032052/1.m3u8?Contentid=6000000002000032052&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6242" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" group-title="纪录",求索动物
 http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=QSDWHD_7000
-#EXTINF:-1 group-title="纪录",CCTV-9纪录
+#EXTINF:-1 group-title="纪录",CCTV9纪录
 http://222.175.159.226:808/hls/202310/index.m3u8
-#EXTINF:-1 group-title="纪录",CCTV-9纪录
+#EXTINF:-1 group-title="纪录",CCTV9纪录
 http://222.240.82.92:9901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="纪录",CCTV-9纪录
+#EXTINF:-1 group-title="纪录",CCTV9纪录
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-#EXTINF:-1 group-title="纪录",CCTV-9纪录
+#EXTINF:-1 group-title="纪录",CCTV9纪录
 http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-#EXTINF:-1 group-title="纪录",CCTV-9纪录
+#EXTINF:-1 group-title="纪录",CCTV9纪录
 http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
-#EXTINF:-1 group-title="纪录",CCTV-9纪录
+#EXTINF:-1 group-title="纪录",CCTV9纪录
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 group-title="纪录",探索频道
-http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
-#EXTINF:-1 group-title="纪录",探索频道
-http://198.16.100.90:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
-#EXTINF:-1 group-title="纪录",探索频道
-http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
-#EXTINF:-1 group-title="纪录",探索频道
-https://ktpremium.com:443/K3939/6757/870683
-#EXTINF:-1 group-title="纪录",探索频道
-http://66.181.39.224/ml.php?id=ba86fcd935
-#EXTINF:-1 group-title="纪录",探索频道
-http://66.181.39.224/ml.php?id=discoveryhd_twn
-#EXTINF:-1 group-title="纪录",探索频道
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571210&extension=ts
-#EXTINF:-1 group-title="纪录",探索亚洲
-http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-#EXTINF:-1 group-title="纪录",探索亚洲
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e
-#EXTINF:-1 group-title="纪录",探索亚洲
-http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
-#EXTINF:-1 group-title="纪录",探索亚洲
-http://66.181.39.224/ml.php?id=discoverytwn_twn
-#EXTINF:-1 group-title="纪录",探索亚洲
-http://103.112.191.9:880/LAOSAT1095.m3u8
-#EXTINF:-1 group-title="纪录",探索亚洲
-http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
-#EXTINF:-1 group-title="纪录",探索发现
-http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 #EXTINF:-1 group-title="纪录",探索发现
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 #EXTINF:-1 group-title="纪录" tvg-logo="https://live.zhoujie218.top/taibiao/世界地理.png",世界地理 
@@ -101,7 +63,7 @@ http://iptv2.dnwx.vip:8888/udp/239.252.219.98:5140
 http://iptv2.dnwx.vip:8888/udp/239.252.220.158:5140
 #EXTINF:-1 group-title="纪录" tvg-logo="https://live.zhoujie218.top/taibiao/上海纪实.png",纪实人文
 http://iptv2.dnwx.vip:8888/udp/239.252.219.227:5140
-#EXTINF:-1 group-title="纪录" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教
+#EXTINF:-1 group-title="纪录" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",纪实科教
 https://cntv.sbs/tv?auth=230918&id=bjjskj
 #EXTINF:-1 group-title="纪录" tvg-logo="https://live.zhoujie218.top/taibiao/金鹰纪实.png",金鹰纪实
 http://iptv2.dnwx.vip:8888/udp/239.252.220.155:5140
@@ -142,6 +104,10 @@ http://iyvhm8br.akciatv.ru/iptv/2XGFGMMXT97LQZ/9011/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 #EXTINF:-1 group-title="Global",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Global",TRT
+http://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Global",TRT
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Global" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 group-title="Global" tvg-id="1035" tvg-logo="http://epg.it999.ru/img/1035.png" tvg-rec="3",Travel+Adventure
@@ -169,8 +135,6 @@ http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
 #EXTINF:-1 group-title="电影",林正英2
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
-#EXTINF:-1 group-title="电影",龙华电影
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
 #EXTINF:-1 group-title="电影",东森电影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 group-title="电影",东森电影
@@ -189,16 +153,12 @@ http://111.40.196.37:443/PLTV/88888888/224/3221225620/1.m3u8
 http://111.40.196.31:443/PLTV/88888888/224/3221225620/1.m3u8
 #EXTINF:-1 group-title="电影",动作电影
 http://111.40.196.27:443/0000000000001000/8103864434730665389/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8103864434730665389
-#EXTINF:-1 group-title="电影",星卫电影
-http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 #EXTINF:-1 group-title="电影",好莱坞
 http://198.16.100.90:8278/hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 #EXTINF:-1 group-title="电影",好莱坞
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 #EXTINF:-1 group-title="电影",NewTV超级电影
 http://111.40.196.27:443/0000000000001000/1000000003000012426/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000003000012426
-#EXTINF:-1 group-title="电影",NewTV超级电影 (1080p)
-https://cloudvideo.servers10.com:8081/8130/index.m3u8
 #EXTINF:-1 group-title="电影",沈腾+周星驰
 http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
 #EXTINF:-1 group-title="电影",美国Mytime
